@@ -2,8 +2,8 @@ package JavaApplication4;
 
 /**
  *
- * @author Sonia Rubio
- * @since 14/12/2020
+ * @author Sergio García
+ * @since 15/06/2020
  * @version 2.0
  * @see JavaApplication4
  */
